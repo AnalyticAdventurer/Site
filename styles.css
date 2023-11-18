@@ -1,0 +1,20 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header, section, footer {
+    margin: 20px;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+footer {
+    text-align: center;
+}
+
+/* Add more styles based on your preferences */
